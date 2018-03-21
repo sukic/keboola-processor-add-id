@@ -1,2 +1,2 @@
 
-print("Hello world from sukic")
+print("Hello world from me")
